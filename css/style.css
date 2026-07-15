@@ -8,12 +8,11 @@ body {
   background: #556272;
   color: antiquewhite;
 }
-
 .hero {
   height: 100vh;
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
-    url("images/portlandheadlight.avif");
+    url("../images/portlandheadlight.avif");
   background-size: cover;
   background-position: center;
   display: flex;
