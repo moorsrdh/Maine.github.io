@@ -71,7 +71,7 @@ body {
 }
 .button-container {
   text-align: center;
-  padding: 40px;
+  padding: 50px 20px;
 }
 
 #maineButton {
@@ -81,6 +81,7 @@ body {
   padding: 15px 32px;
   font-size: 16px;
   cursor: pointer;
+  border-radius: 8px;
 }
 
 #maineButton:hover {
@@ -89,7 +90,10 @@ body {
 
 .buttonanswer {
   display: none;
-  margin-top: 20px;
+  margin: 25px auto;
+  max-width: 700px;
+  font-size: 20px;
+  line-height: 1.6;
 }
 .about-text {
   width: 450px;
