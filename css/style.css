@@ -70,6 +70,7 @@ body {
   border-radius: 5px;
 }
 .button-container {
+  width: 100%;
   text-align: center;
   padding: 50px 20px;
 }
